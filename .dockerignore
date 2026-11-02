@@ -1,0 +1,11 @@
+.git
+.github
+bin
+tmp
+docs
+scripts
+*.md
+.env
+.env.*
+!.env.example
+docker-compose*.yml
